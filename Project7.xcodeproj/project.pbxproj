@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AAE5A32822315B130071E3E7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE5A32722315B130071E3E7 /* DetailViewController.swift */; };
 		AAF6D204223007C000CD4256 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF6D203223007C000CD4256 /* AppDelegate.swift */; };
 		AAF6D206223007C000CD4256 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF6D205223007C000CD4256 /* ViewController.swift */; };
 		AAF6D209223007C000CD4256 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAF6D207223007C000CD4256 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AAE5A32722315B130071E3E7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		AAF6D200223007C000CD4256 /* Project7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAF6D203223007C000CD4256 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AAF6D205223007C000CD4256 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				AAF6D20F223007C200CD4256 /* Info.plist */,
 				AAF6D21522300D4200CD4256 /* Petition.swift */,
 				AAF6D21722300D7700CD4256 /* Petitions.swift */,
+				AAE5A32722315B130071E3E7 /* DetailViewController.swift */,
 			);
 			path = Project7;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				AAF6D206223007C000CD4256 /* ViewController.swift in Sources */,
 				AAF6D21822300D7700CD4256 /* Petitions.swift in Sources */,
+				AAE5A32822315B130071E3E7 /* DetailViewController.swift in Sources */,
 				AAF6D204223007C000CD4256 /* AppDelegate.swift in Sources */,
 				AAF6D21622300D4200CD4256 /* Petition.swift in Sources */,
 			);
